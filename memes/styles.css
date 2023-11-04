@@ -46,6 +46,8 @@ table {
 
 h1 {
 	font-size: 20px;
+	font-weight: 600;
+	padding-top: 8px;
 	text-align: center;
 }
 
